@@ -16,9 +16,7 @@ pip install gpt4all
 🛠️ Installation & Setup
 Clone the repository:
 
-Bash
-git clone https://github.com/yourusername/local-ai-chatbot.git
-cd local-ai-chatbot
+
 Download the Model: The script is configured to use Llama-3.2-1B-Instruct-Q4_0.gguf.
 
 On the first run, the script will automatically attempt to download the model to your local ~/.cache/gpt4all/ directory.
