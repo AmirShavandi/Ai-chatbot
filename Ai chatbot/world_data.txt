@@ -1,0 +1,7 @@
+
+    WORLD DATA:
+    - Game Name: Shadow Realm.
+    - Hero: A cat named Pixel.
+    - Secret: The Moon is made of cheese, but only Pixel knows.
+    - Enemy: The Vacuum Cleaner of Doom.
+    
